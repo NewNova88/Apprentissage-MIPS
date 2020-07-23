@@ -12,7 +12,7 @@ Oui et non. Oui parce que c'était au programme en première année de DUT. Mais
 
 # Tu nous parles d'assembleur depuis tout à l'heure, c'est quoi ?
 Un assembleur, ou langage assembleur, ou encore langage d'assemblage, c'est le langage du processeur. C'est le langage le plus bas niveau compréhensible par l'humain. Alors c'est quoi "bas niveau" ? 
-Le niveau d'un langage, c'est le fait qu'ils soient plus ou moins proche du langage de la machine, le binaire. Vous vous doutez bien que les dev vont pas tout faire en binaire, c'est juste impossible. Ils ont créés alors le langage d'assemblage. Il est très difficile à comprendre si vous êtes un néophyte en programmation, et même pour certains programmeurs confirmés.
+Le niveau d'un langage, c'est le fait qu'il soit plus ou moins proche du langage de la machine, le binaire. Vous vous doutez bien que les dev vont pas tout faire en binaire, c'est juste impossible. Ils ont créés alors le langage d'assemblage. Il est très difficile à comprendre si vous êtes un néophyte en programmation, et même pour certains programmeurs confirmés.
 
 # Comment je lance ces fichiers ? J'ai besoin d'un compilateur ?
 Vous n'avez pas besoin de compilateur, puisqu'il n'y a rien à compiler. Pour lancer ces fichiers, il vous faut un émulateur/débogueur de fichier assembleur pour le MIPS. Je vous conseille QtSpim, il suffira grandement pour la plupart des cas.
