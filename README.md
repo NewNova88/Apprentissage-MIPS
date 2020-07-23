@@ -5,7 +5,7 @@ Mon apprentissage perso du MIPS
 Le MIPS est une architecture, un type de processeur. Il a donc un assembleur dédié (comme le x86 par exemple)
 
 # Comment ça apprentissage ?
-Ces fichiers sont issus de mon apprentissage, et à part NOMO.s, je ne les ai pas créé. Cependant ils ne sont pas copiésècollés, je les ai fait à la main, histoire de pratiquer cet assembleur.
+Ces fichiers sont issus de mon apprentissage, et à part NOMO.s, je ne les ai pas créé. Cependant ils ne sont pas copiés-collés, je les ai fait à la main, histoire de pratiquer cet assembleur.
 
 # Tu l'as appris à l'école ?
 Oui et non. Oui parce que c'était au programme en première année de DUT. Mais le prof étant incapable d'être captivant/motivant, et incompétent à bien expliquer son cours, j'ai décidé d'apprendre seul l'assembleur MIPS sans son aide à l'aide de tutos.
